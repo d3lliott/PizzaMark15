@@ -3,3 +3,7 @@
 3. Choose toppings
 4. Compare prices
 5. Order the Pizzas
+6. Pay for the pizza
+  6a. Pay Online
+  6b. Pay at door
+7. Enjoy saucy goodness.   
