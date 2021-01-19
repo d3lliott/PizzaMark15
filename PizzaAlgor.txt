@@ -1,3 +1,5 @@
 1. Find Pizza Website
 2. Look at the menu
 3. Choose toppings
+4. Compare prices
+5. Order the Pizzas
