@@ -7,7 +7,10 @@
   6a. Pay Online
   6b. Pay at door
 7. Enjoy saucy goodness.   
+<<<<<<< HEAD
 8. discard your trash
 9. take trash to the curb
 You forgot beer 
 hello class
+=======
+>>>>>>> 120d411bdbe4925d51720b2360c5c7b0e28d6c11
